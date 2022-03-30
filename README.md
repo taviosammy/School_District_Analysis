@@ -23,8 +23,8 @@ Challenge
 ![image](https://user-images.githubusercontent.com/99847046/160760180-83b82eef-2945-4b23-ba25-00960e2482c9.png)
 Module
 
--Significant drop in pass rate for reading and math.
--Once adjustment is made to discount 9th grade results, the results become nearly identical having differences of tenths of a percentage.
+- Significant drop in pass rate for reading and math.
+- Once adjustment is made to discount 9th grade results, the results become nearly identical having differences of tenths of a percentage.
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -32,18 +32,18 @@ Module
 
 ![image](https://user-images.githubusercontent.com/99847046/160761870-9975ee46-a6b0-4dae-a93c-768b4a042a0b.png)
 
--Thomas High School was ranked 2nd in overall pass percentage
--When the Ninth Graders are removed they drop to the 8th position, becoming the median of the ranking.
--Thomas High School returns to 2nd in the rank once the ninth graders are omitted from the calculations.
+- Thomas High School was ranked 2nd in overall pass percentage
+- When the Ninth Graders are removed they drop to the 8th position, becoming the median of the ranking.
+- Thomas High School returns to 2nd in the rank once the ninth graders are omitted from the calculations.
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
--All things remain the same but for the 9th grade scores that are now empty
+## How does replacing the ninth-grade scores affect the following:
+### Math and reading scores by grade
+- All things remain the same but for the 9th grade scores that are now empty
 
-Scores by school spending
--School spending remained exactly same
+### Scores by school spending
+- School spending remained exactly same
 
-Scores by school size
+### Scores by school size
 ![image](https://user-images.githubusercontent.com/99847046/160764369-13e1149a-b7de-42df-a1f3-468d988c6297.png)
 Challenge
 ![image](https://user-images.githubusercontent.com/99847046/160764408-d87f07a8-a097-49db-9664-1a5482293f92.png)
@@ -51,7 +51,7 @@ Module
 
 -It's worth noting a very small decrease in the medium size category across all metrics.(very insignificant)
 
-Scores by school type
+### Scores by school type
 - No noticable change
 
 # Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
